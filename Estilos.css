@@ -1,0 +1,140 @@
+*{
+		padding: 0px;
+		margin: 0px;
+	}
+	.tituloparrafo{
+		text-decoration: underline;
+		padding: 15px;
+	}
+	.contenidoparrafo{
+		font-size: 25px;
+		text-align: justify; 
+		word-spacing: 15px;
+		margin: 20px;
+		padding: 20px;
+		line-height: 1.5;
+
+	}
+	.modificar{
+  padding: ;
+  text-align: center;
+}
+	.videos{
+  margin: none;
+  padding: none;
+  border: none;
+}
+	.videos{
+		text-align: center;
+	}
+.titulo{
+color:whitesmoke;
+		font-size: 100px;
+		font-family: fantasy;
+		background-color: darkblue;
+		letter-spacing: 10px;
+}
+.titulo2{
+color: beige;
+		font-size: 200px;
+		font-family: fantasy;
+		text-shadow: 3px 3px 6px black;
+		background: black;
+}
+.titulo3{
+color:beige;
+		font-size: 100px;
+		font-family: fantasy;
+		text-shadow: 3px 3px 6px black;
+background: black;
+}
+	.menu{
+		text-shadow: 3px 3px 6px black;
+		color:whitesmoke;
+		font-size: 40px;
+		font-family: fantasy;
+		background-color: darkblue;
+		text-decoration: none;
+		text-align: center;
+line-height: 1.8
+	}	
+	.menu a:hover{
+		font-size: 60px;
+		color:yellowgreen;
+	}	
+	.imagenprincipal{
+		width:1600px;
+		height:1000px;
+	}
+	.mapa{
+		width:1600px;
+		height:1000px;
+	}
+	.imagenpie{
+		width:100px;
+		heigth:100px;
+		background-color: black;
+	}
+	.pie{
+		color: whitesmoke;
+		background-color: black;
+		padding: 10px;
+		font-size: 20px;
+	}
+	.parrafo1{
+		font-size: 20px;
+		text-align: justify;
+		border: 5px solid black; 
+		word-spacing: 15px;
+		margin: 20px;
+		padding: 20px;
+		padding margin: 0px;
+		width:1000px;
+		heigth:2000px;
+		line-height: 1.5;
+
+		dotted dashed
+	}
+	.imagenes{
+		width:500px;
+		heigth:500px;
+		background-image: black;
+	}
+	.videos{
+		width:1000px;
+		heigth:1000px;
+		background-image: black;
+	}
+	.videos a:hover{
+		transform: scale(1.1);
+	}
+.tabla3{
+		width:1000px;
+		heigth:1000px;
+		background: burlywood;
+		border: 5px solid; black;
+		line-height: 1.8
+	}
+	.tabla2{
+		width:1000px;
+		heigth:1000px;
+		background: burlywood;
+		border: 5px solid; black;
+		line-height: 1.8
+	}
+	.tabla1{
+		width:1000px;
+		heigth:1000px;
+		background: burlywood;
+		border: 5px solid; black;
+line-height: 1.8
+		}
+	.tabla4{
+		width:1000px;
+		heigth:1000px;
+		background: burlywood;
+		border: 5px solid; black;
+		line-height: 1.8
+		}
+	}/style>
+	
